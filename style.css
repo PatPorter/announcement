@@ -1,5 +1,6 @@
 body {
-    background-color: whitesmoke;
+    background-color: #641B2E;
+    margin: 0;
 }
 
 * {
@@ -8,11 +9,11 @@ body {
     text-align: center;
 }
 
-.title {
-    
+.title {    
     color: #FBDB93;
     background-color: #BE5B50;
     padding: 1px;
+    height:
 }
 
 .heading {
@@ -22,13 +23,14 @@ body {
 
 .image {
     background-color: #641B2E;
-    padding: 1px;
+}
+
+.image img {
+    border: 2px solid #FBDB93;
 }
 
 .link {
     background-color: #641B2E;
-    padding: 1px;
-    border-bottom: 20px solid #641B2E;
 }
 
 .link a {
