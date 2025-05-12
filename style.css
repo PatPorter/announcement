@@ -2,21 +2,34 @@ body {
     background-color: whitesmoke;
 }
 
-h1 {
+* {
+    color: #FBDB93;
+    text-align: center;
+}
+
+.title {
     color: #FBDB93;
     background-color: #BE5B50;
+    padding: 1px;
 }
 
-h2 {
-    color: #FBDB93;
+.heading {
     background-color: #8A2D3B;
+    padding: 1px;
 }
 
-h3 {
-    color: #FBDB93;
+.image {
     background-color: #641B2E;
+    padding: 1px;
 }
 
-* {
-    text-align: center;
+.link {
+    background-color: #641B2E;
+    padding: 1px;
+    border-bottom: 20px solid #641B2E;
+}
+
+.link a {
+    font-weight: bold;
+    text-decoration: none;
 }
