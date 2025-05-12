@@ -3,11 +3,13 @@ body {
 }
 
 * {
+    font-family: "Fuzzy Bubbles", sans-serif;
     color: #FBDB93;
     text-align: center;
 }
 
 .title {
+    
     color: #FBDB93;
     background-color: #BE5B50;
     padding: 1px;
