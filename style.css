@@ -27,6 +27,8 @@ body {
 
 .image img {
     border: 2px solid #FBDB93;
+    display: block;
+    margin: auto;
 }
 
 .link {
