@@ -43,6 +43,6 @@ body {
 @media (max-width: 644px) {
     .image img {
         border: 2px solid FBDB93;
-        width: 360px;
+        width: calc(100vw - 4px);
     }    
 }
