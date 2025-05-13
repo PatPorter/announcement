@@ -39,3 +39,10 @@ body {
     font-weight: bold;
     text-decoration: none;
 }
+
+@media (max-width: 644px) {
+    .image img {
+        border: 2px solid FBDB93;
+        width: 360px;
+    }    
+}
